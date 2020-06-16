@@ -55,6 +55,14 @@
         "random": "cpp",
         "set": "cpp",
         "string": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "csignal": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_set": "cpp",
+        "typeindex": "cpp",
+        "codecvt": "cpp",
+        "filesystem": "cpp",
+        "variant": "cpp"
     }
 }
